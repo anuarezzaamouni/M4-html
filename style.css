@@ -1,0 +1,5 @@
+/* Barra de navegacion en la parte superior */
+.navbar a {
+background-color: #FFFFFF;
+overflow: hidden;
+}
